@@ -1,7 +1,6 @@
 # Wins's
 ## Description
-
-A brief description of your project.
+WinS is a tool built and developed using the Python programming language. WinS has two features for scanning and one feature for monitoring.
 
 ![Project Title](Title.PNG)
 
