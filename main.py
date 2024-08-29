@@ -1,6 +1,6 @@
 import portScanner
 import protocolScanner
-import networkSniffer
+import osScanner
 
 def print_ascii_art():
     print(r"""
@@ -9,7 +9,7 @@ def print_ascii_art():
     ██║ █╗ ██║██║██╔██╗ ██║   ███████╗
     ██║███╗██║██║██║╚██╗██║   ╚════██║
     ╚███╔███╔╝██║██║ ╚████║   ███████║
-    ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚   ╚══════╝ 
+    ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝   ╚══════╝ 
           """)
     print("✨ Welcome to CyberDefender✨")
           
@@ -21,7 +21,7 @@ def main():
         print("\nChoose a feature to run:")
         print("1. Port Scanner")
         print("2. Protocol Scanner")
-        print("3. Network Sniffer")
+        print("3. OS Scanner")
         print("4. Exit")
 
         choice = input("Enter your choice (1/2/3/4): ")
@@ -38,8 +38,8 @@ def main():
             protocolScanner.protocol_scan(ip_address, ports)
 
         elif choice == '3':
-            interface = input("Enter the network interface to monitor (or press Enter for default): ")
-            networkSniffer.start_sniffer(interface)
+            ip_address = input("Enter the IP address to scan for OS details: ")
+            osScanner.os_scan(ip_address)
 
         elif choice == '4':
             print("Goodbye! 👋")
