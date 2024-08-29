@@ -2,8 +2,6 @@
 
 ![Project Title](Title.PNG)
 
-## Badges
-
 [![GitHub Release](https://img.shields.io/github/release/username/repository.svg)](https://github.com/username/repository/releases)
 [![GitHub Issues](https://img.shields.io/github/issues/username/repository.svg)](https://github.com/username/repository/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/username/repository.svg)](https://github.com/username/repository/stargazers)
