@@ -16,5 +16,6 @@ A brief description of your project.
 To install and run the project, follow these steps:
 
 ### Clone the Repository
-```bash
+
+``bash
 git clone https://github.com/erwineka123/WinS.git
