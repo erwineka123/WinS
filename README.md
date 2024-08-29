@@ -5,7 +5,7 @@ A brief description of your project.
 
 ![Project Title](Title.PNG)
 
-[![GitHub Release](https://img.shields.io/github/release/username/repository.svg)](https://github.com/username/repository/releases)
+[![GitHub Release](https://img.shields.io/github/release/username/repository.svg)](https://github.com/erwineka123/WinS/releases)
 [![GitHub Issues](https://img.shields.io/github/issues/username/repository.svg)](https://github.com/username/repository/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/username/repository.svg)](https://github.com/username/repository/stargazers)
 [![GitHub Followers](https://img.shields.io/github/followers/username.svg?style=social)](https://github.com/username)
