@@ -28,3 +28,24 @@ cd WinS
 ```bash
 python main.py
 ```
+## Usage
+
+Check out the demo video for an overview of the project:
+
+[![Watch the video](https://img.youtube.com/vi/your-video-id/hqdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+
+Click the Demo Above!
+
+## Tech Stack
+
+- **Client**: Kali Linux
+- **Server**: Kali Linux
+
+## 🔗 Links
+
+- [Portfolio](portfolio-erwin-eka.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/erwin-eka)
+
+## Authors
+
+- [@erwin](https://github.com/erwineka123)
