@@ -7,7 +7,7 @@ A brief description of your project.
 
 [![GitHub Followers](https://img.shields.io/github/followers/erwineka123.svg?style=social)](https://github.com/erwineka123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/erwin-eka)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/erwin.e.s_)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/erwin.es_)
 
 ## Installation
 
