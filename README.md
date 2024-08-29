@@ -1,3 +1,3 @@
 # Project Title
 
-![Project Title](path/to/Title.png)
+![Project Title](Title.png)
