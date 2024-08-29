@@ -16,7 +16,9 @@ A brief description of your project.
 To install and run the project, follow these steps:
 
 ### Clone the Repository
-
 ```bash
-git clone https://github.com/username/repository.git
-cd repository
+git clone https://github.com/erwineka123/WinS.git
+
+### Masuk ke dalam Directory File WinS
+```bash
+cd Wins
