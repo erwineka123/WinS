@@ -1,4 +1,7 @@
 # Wins's
+## Description
+
+A brief description of your project.
 
 ![Project Title](Title.PNG)
 
@@ -7,10 +10,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/username/repository.svg)](https://github.com/username/repository/stargazers)
 [![GitHub Followers](https://img.shields.io/github/followers/username.svg?style=social)](https://github.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/yourprofile)
-
-## Description
-
-A brief description of your project.
 
 ## Installation
 
