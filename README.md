@@ -1,6 +1,6 @@
-# Wins's
+# Win's
 ## Description
-WinS is a tool built and developed using the Python programming language. WinS has two features for scanning and one feature for monitoring.
+WinS is a tool built and developed using the Python programming language. WinS has two features for scanning and one feature for monitoring. Win's provides features for carrying out port scanning and protocol scanning. Win's also provides features for monitoring traffic.
 
 ![Project Title](Title.PNG)
 
