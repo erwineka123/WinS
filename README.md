@@ -40,7 +40,7 @@ Click the Demo Above!
 
 ## 🔗 Links
 
-- [Portfolio](portfolio-erwin-eka.vercel.app)
+- [Portfolio](https://portfolio-erwin-eka.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/erwin-eka)
 
 ## Authors
