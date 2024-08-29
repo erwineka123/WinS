@@ -17,11 +17,11 @@ To install and run the project, follow these steps:
 ```bash
 git clone https://github.com/erwineka123/WinS.git
 ```
-### Masuk ke dalam directory WinS
+### Go to the WinS directory
 ```bash
 cd WinS
 ```
-### Jalankan program main.py
+### Run the main.py program
 ```bash
 python main.py
 ```
