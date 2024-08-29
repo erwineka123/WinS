@@ -1,6 +1,6 @@
 import portScanner
 import protocolScanner
-import osScanner
+from monitoringTraffic import traffic_monitor
 
 def print_ascii_art():
     print(r"""
@@ -12,7 +12,6 @@ def print_ascii_art():
     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝   ╚══════╝ 
           """)
     print("✨ Welcome to CyberDefender✨")
-          
 
 def main():
     print_ascii_art()
@@ -21,7 +20,7 @@ def main():
         print("\nChoose a feature to run:")
         print("1. Port Scanner")
         print("2. Protocol Scanner")
-        print("3. OS Scanner")
+        print("3. Traffic Monitor")
         print("4. Exit")
 
         choice = input("Enter your choice (1/2/3/4): ")
@@ -38,8 +37,7 @@ def main():
             protocolScanner.protocol_scan(ip_address, ports)
 
         elif choice == '3':
-            ip_address = input("Enter the IP address to scan for OS details: ")
-            osScanner.os_scan(ip_address)
+            traffic_monitor()
 
         elif choice == '4':
             print("Goodbye! 👋")
