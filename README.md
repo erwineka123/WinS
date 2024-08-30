@@ -29,7 +29,7 @@ python main.py
 
 Check out the demo video for an overview of the project:
 
-[![Watch the video](https://img.youtube.com/vi/your-video-id/hqdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the video](https://img.youtube.com/vi/your-video-id/hqdefault.jpg)](https://youtu.be/kd7YwgXkOTw)
 
 Click the Demo Above!
 
